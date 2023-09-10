@@ -398,7 +398,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  min-height: 1800px; /* Adjust the minimum height as needed */
+  min-height: 2000px; /* Adjust the minimum height as needed */
   height: 18vh;
 }
 
@@ -435,11 +435,12 @@ article .icon {
 
 /* FOOTER SECTION */
 
-footer {
+/* footer {
   height: 26vh;
   margin: 0 1rem;
 }
 
 footer p {
   text-align: center;
-}
+} 
+*/
