@@ -46,7 +46,7 @@
 @media screen and (max-width: 600px) {
   #contact,
   footer {
-    height: 40vh;
+    height: 50vh; /* Increase height for the contact and footer sections */
   }
   #profile {
     height: 83vh;
@@ -95,5 +95,14 @@
   }
   .text-container {
     text-align: justify;
+  }
+  /* Adjust project container size and margin */
+  .details-container {
+    width: 48%; /* Adjust the width as needed */
+    margin: 0 1%; /* Add margin between project containers */
+  }
+  /* Increase margin-bottom for the projects section */
+  #projects {
+    margin-bottom: 4rem; /* Adjust as needed */
   }
 }
