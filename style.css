@@ -398,7 +398,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  min-height: 2000px; /* Adjust the minimum height as needed */
+  min-height: 2500px; /* Adjust the minimum height as needed */
   height: 18vh;
 }
 
